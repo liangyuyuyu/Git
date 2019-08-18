@@ -1,5 +1,7 @@
 # Git资料
 
+**Git优势：本地版本控制、重写提交说明、可以“后悔”、分支系统**
+
 ## 从远程服务器上获取到的工程，用Git没问题，而TortoiseGit报错：
 **<font color="red" size="4">Disconnected: No supported authentication methods available(server sent: publickey)</font>**
 
